@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![](./screenshot/screenshot.jpg)
+![](./screenshot/desktop-design.jpg)
 
 ## Welcome! 👋
 
